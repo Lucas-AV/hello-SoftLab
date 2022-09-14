@@ -94,3 +94,18 @@ the team on behalf of <br />
   hello;
 </p>
 
+<a href="https://github.com/ingavell">
+  <img alt="INGRID" width="100px" src="https://avatars.githubusercontent.com/u/86024524?v=4" />
+</a>
+
+<a href="https://github.com/knz13">
+  <img alt="OTAVIO" width="100px" src="https://avatars.githubusercontent.com/u/82895172?v=4" />
+</a>
+
+<a href="https://github.com/Lucas-AV">
+ <img alt="LUCAS" width="100px" src="https://avatars.githubusercontent.com/u/63984060?v=4" />
+</a>
+  
+<a href="https://github.com/DanielleRodriguesilv">
+ <img alt="DANI" width="100px" src="https://avatars.githubusercontent.com/u/101230741?v=4" />
+</a>
